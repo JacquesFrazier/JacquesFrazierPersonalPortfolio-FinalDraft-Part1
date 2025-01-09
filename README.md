@@ -6,10 +6,9 @@ The design aspect of my portfolio is completed
 
 resume(I really dont have work experience so I don't see the point lol)
 
-projects
+projects (add hover element in the projects)
 
 hire me 
-
 
 
 
