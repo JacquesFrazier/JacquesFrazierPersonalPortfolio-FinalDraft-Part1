@@ -11,5 +11,5 @@ projects (add hover element in the projects)
 hire me 
 
 -There was a problem with my name on 2 diiferent media queries but I quickly fixed the issue. Solution will be shown next draft.
-
+-bring about me section down a bit in media query. Solution will be shown next draft.
 
